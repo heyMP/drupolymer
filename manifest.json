@@ -1,0 +1,6 @@
+{
+  "name": "drupolymer",
+  "short_name": "drupolymer",
+  "start_url": "/",
+  "display": "standalone"
+}
