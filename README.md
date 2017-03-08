@@ -12,17 +12,17 @@ bower install --save drupolymer
 ## Development
 
 
-## Install the Polymer-CLI
+### Install the Polymer-CLI
 
 First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your application locally.
 
-## Viewing Your Application
+### Viewing Your Application
 
 ```
 $ polymer serve
 ```
 
-## Building Your Application
+### Building Your Application
 
 ```
 $ polymer build
@@ -39,7 +39,7 @@ from:
 $ polymer serve build/bundled
 ```
 
-## Running Tests
+### Running Tests
 
 ```
 $ polymer test
