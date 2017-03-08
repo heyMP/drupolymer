@@ -1,5 +1,10 @@
 # \<drupolymer\>
 
+## Installation
+
+```
+bower install --save drupolymer
+```
 
 -
 
