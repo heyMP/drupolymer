@@ -6,8 +6,6 @@
 bower install --save drupolymer
 ```
 
--
-
 
 ## Development
 
